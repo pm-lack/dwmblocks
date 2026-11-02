@@ -5,7 +5,7 @@ static const Block blocks[] = {
 	/* {" ",	"sb-ram",	5,	2}, */
 	/* {" ",	"sb-battery",	5,	3}, */
 	{" ",	"sb-clock",	30,	1},
-	{" ",	"sb-internet",	5,	4},
+	{" ",	"sb-network",	5,	4},
 	{" "},
 };
 
